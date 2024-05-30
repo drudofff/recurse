@@ -11,3 +11,5 @@ to make a data visualization tool do something it wasn't designed to do.
 The use of the code is explained on [a post in my blog](https://pinpointuncertainty.blogspot.com/2013/11/your-own-3d-rotatable-cow.html)
 where there is an example of a rotatable wireframe cow in Tableau, or open
 the rotatable cow workbook [here on Tableau Public](https://public.tableau.com/app/profile/drud/viz/shared/3HTMZCRSC).
+Static image below:
+![](TableauRotatableCow.png)
