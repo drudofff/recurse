@@ -1,5 +1,6 @@
 Convert a [3D object geometry definition OBJ file](https://en.wikipedia.org/wiki/Wavefront_.obj_file) ([examples](https://people.sc.fsu.edu/~jburkardt/data/obj/obj.html))
 into a CSV file for [Tableau](https://www.tableau.com/) to ingest so the 3D object can be displayed in Tableau.
+An example OBJ file `dodecahedron.obj` is in this repository.
 
 The columns for the CSV file are the X, Y, Z coordinates of vertex points, and
 a number indicating a particular edge id of the object. Each edge is defined
